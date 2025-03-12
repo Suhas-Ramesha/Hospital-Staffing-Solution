@@ -12,7 +12,8 @@ With aging populations, an increase in chronic diseases, and rising healthcare c
 ---
 
 ## Demo
-[Live Demo]([https://your-app-name.streamlit.app](https://hospital-staffing-solution-j5zckhdahiegh2h9rjnhbu.streamlit.app/))
+🔗 [Live Demo](https://hospital-staffing-solution-j5zckhdahiegh2h9rjnhbu.streamlit.app/)
+
 
 ## Solution
 This project provides a **Streamlit-based web application** that:
