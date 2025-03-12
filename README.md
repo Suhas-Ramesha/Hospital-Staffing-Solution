@@ -11,6 +11,9 @@ With aging populations, an increase in chronic diseases, and rising healthcare c
 
 ---
 
+##Demo
+🔗  [Live Demo]([https://your-app-name.streamlit.app](https://hospital-staffing-solution-j5zckhdahiegh2h9rjnhbu.streamlit.app/))
+
 ## Solution
 This project provides a **Streamlit-based web application** that:
 ✅ Predicts **patient admissions** using historical data  
@@ -59,7 +62,7 @@ Go to Streamlit Cloud and sign in.
 Click 'New App', select your GitHub repo, and set app.py as the entry point.
 Click 'Deploy'.
 
-###Example CSV Format
+##Example CSV Format
 Your data should be in CSV format with two columns:
 
 ```csv
@@ -69,16 +72,14 @@ ds,y
 2025-03-01,120
 2025-03-02,135
 ```
-Demo
-🔗 Live Demo
 
-###Contributing
+##Contributing
 Feel free to fork the repo, create a new branch, and submit a Pull Request!
 
-###Contact
+##Contact
 For any questions, reach out to your-email@example.com or open an issue on GitHub!
 
-🚀 Optimizing Healthcare, One Prediction at a Time!
+###🚀 Optimizing Healthcare, One Prediction at a Time!
 
 ```markdown
 Copy
